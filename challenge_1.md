@@ -1,4 +1,4 @@
-# L1StandardBridge Contract Audit Report
+# Smart Contract Audit Report
 
 ## Audited
 [L1StandardBridge on Etherscan](https://etherscan.io/address/0xBFB731Cd36D26c2a7287716DE857E4380C73A64)
